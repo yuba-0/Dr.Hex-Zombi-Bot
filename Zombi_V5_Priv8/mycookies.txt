@@ -1,0 +1,49 @@
+#LWP-Cookies-1.0
+Set-Cookie3: __cfduid=dcd7fa6f945943c8ded6a5e3ce883ba2f1535015879; path="/"; domain=.antea.net; path_spec; expires="2019-08-23 09:17:59Z"; HttpOnly; version=0
+Set-Cookie3: __cfduid=dfdcb831a07130e748c14608df071490e1534921845; path="/"; domain=.bmiusa.com; path_spec; expires="2019-08-22 07:10:45Z"; HttpOnly; version=0
+Set-Cookie3: ja_purity_tpl=ja_purity; path="/"; domain=31kurs.ru; path_spec; expires="2019-08-10 20:18:44Z"; version=0
+Set-Cookie3: 3a3b120b2c73bcde8bd7111c5e082d9c=09cf47d115d19f3b09e52809601a702d; path="/"; domain=advancedprecastinc.com; path_spec; expires="2019-08-30 12:13:39Z"; version=0
+Set-Cookie3: ja_mendozite_tpl=ja_mendozite; path="/"; domain=aim-yag.com; path_spec; expires="2019-07-24 21:49:11Z"; version=0
+Set-Cookie3: arctoslife_tpl=arctoslife; path="/"; domain=arctoslife.gr; path_spec; expires="2019-08-09 08:44:34Z"; version=0
+Set-Cookie3: cltid=36924; path="/"; domain=arctoslife.gr; path_spec; expires="2038-01-19 03:14:07Z"; version=0
+Set-Cookie3: js_vsid=91209; path="/"; domain=arctoslife.gr; path_spec; expires="2018-08-19 12:44:35Z"; version=0
+Set-Cookie3: trcusr=%24%24; path="/"; domain=arctoslife.gr; path_spec; expires="2038-01-19 03:14:07Z"; version=0
+Set-Cookie3: 47cca99f3e7aa9f4176ec9efabff68a9=7310a8667b8f9f66017ddb28da42c09e; path="/"; domain=astimegoesby.nl; path_spec; expires="2019-08-22 07:10:14Z"; version=0
+Set-Cookie3: ja_opal_tpl=ja_opal; path="/"; domain=cafevuonda.vn; path_spec; expires="2019-08-12 06:19:29Z"; version=0
+Set-Cookie3: 573050e4ccb47f436cf83c50b092bc5e=en-GB; path="/"; domain=dallibab.com; path_spec; expires="2019-08-22 07:09:17Z"; version=0
+Set-Cookie3: ja_university_tpl=ja_university; path="/"; domain=edusports.in; path_spec; expires="2019-08-20 12:22:11Z"; version=0
+Set-Cookie3: business5_tpl=business5; path="/"; domain=fokinoschool3.ru; path_spec; expires="2019-08-13 08:57:02Z"; version=0
+Set-Cookie3: gk_mystore_tpl=gk_mystore; path="/"; domain=g-elektro.com.ua; path_spec; expires="2019-08-10 20:15:09Z"; version=0
+Set-Cookie3: 01309812e22149d658e8810da94e4a7e=en-GB; path="/"; domain=globalscript-it.com; path_spec; expires="2019-08-20 20:21:40Z"; version=0
+Set-Cookie3: 60gp=R2337344954; path="/"; domain=le-menil-st-michel.fr; path_spec; expires="2018-08-20 21:30:56Z"; version=0
+Set-Cookie3: 60gpBAK=R1224225179; path="/"; domain=le-menil-st-michel.fr; path_spec; expires="2018-08-20 21:33:30Z"; version=0
+Set-Cookie3: crawlprotecttag=present; path="/"; domain=leparccamping.com; path_spec; expires="2018-08-04 22:20:11Z"; version=0
+Set-Cookie3: ja_fedora_tpl=ja_fedora; path="/"; domain=mebel.eccodom.com; path_spec; expires="2019-08-13 08:56:48Z"; version=0
+Set-Cookie3: 9b8060309d6eb8451aeb2b496da8331d=en-GB; path="/"; domain=mediatekjo.com; path_spec; expires="2019-08-26 10:09:12Z"; version=0
+Set-Cookie3: e1c8a2f63d3a4472f40a0dafb5ac5513=b915df40b90e0d22a922429035b9476d; path="/"; domain=movitec-gmbh.com; path_spec; expires="2019-08-22 07:11:55Z"; version=0
+Set-Cookie3: modaldone=false; path="/"; domain=municipiochunchi.gob.ec; path_spec; expires="2019-01-02 12:30:17Z"; version=0
+Set-Cookie3: business8_tpl=business8; path="/"; domain=nnsaa.ru; path_spec; expires="2019-08-12 07:12:31Z"; version=0
+Set-Cookie3: cltid=61015; path="/"; domain=oe-it.ru; path_spec; expires="2038-01-19 03:14:07Z"; version=0
+Set-Cookie3: js_vsid=140327; path="/"; domain=oe-it.ru; path_spec; expires="2018-08-21 00:15:35Z"; version=0
+Set-Cookie3: trcusr=15697; path="/"; domain=oe-it.ru; path_spec; expires="2038-01-19 03:14:07Z"; version=0
+Set-Cookie3: 34e17aafad83001923e0053c06ccaf56=0aebb54ab608fa4a344b7afb331fe71c; path="/"; domain=pci2012.science.az; path_spec; expires="2018-08-04 09:58:16Z"; version=0
+Set-Cookie3: 6b320ff0ced2a1b7edc79afdba5394d6=en-GB; path="/"; domain=petro-pro.mn; path_spec; expires="2019-08-03 21:53:54Z"; version=0
+Set-Cookie3: bff67811fb3d2cf37e581090a73d8241=es-ES; path="/"; domain=socedal.es; path_spec; expires="2019-08-03 22:01:19Z"; version=0
+Set-Cookie3: p_home_tpl=p_home; path="/"; domain=www.ammtas.com; path_spec; expires="2019-07-24 22:00:13Z"; version=0
+Set-Cookie3: cltid=84970; path="/"; domain=www.cavambrosiano.it; path_spec; expires="2038-01-19 03:14:07Z"; version=0
+Set-Cookie3: js_vsid=170530; path="/"; domain=www.cavambrosiano.it; path_spec; expires="2018-08-04 02:09:18Z"; version=0
+Set-Cookie3: trcusr=27508; path="/"; domain=www.cavambrosiano.it; path_spec; expires="2038-01-19 03:14:07Z"; version=0
+Set-Cookie3: ja_purity_ii_tpl=ja_purity_ii; path="/"; domain=www.coppieincammino.it; path_spec; expires="2019-08-10 20:22:08Z"; version=0
+Set-Cookie3: 2ab3ff4d867373652301e8b532713a6b=en-GB; path="/"; domain=www.e-rhetor.com; path_spec; expires="2019-08-23 08:56:51Z"; version=0
+Set-Cookie3: ja_urani_tpl=ja_urani; path="/"; domain=www.ike-ko.co.jp; path_spec; expires="2019-08-16 10:06:50Z"; version=0
+Set-Cookie3: ja_kulanite_tpl=ja_kulanite; path="/"; domain=www.jisna.com.my; path_spec; expires="2019-08-20 12:06:06Z"; version=0
+Set-Cookie3: cip_vvisitcounter=NDEuMjU0LjIuNDQ%3D; path="/"; domain=www.ksthornanitra.sk; expires="2018-08-22 07:15:39Z"; version=0
+Set-Cookie3: 60gp=R477162632; path="/"; domain=www.lemillesime.fr; path_spec; expires="2018-08-03 23:19:59Z"; version=0
+Set-Cookie3: 60gpBAK=R1224225179; path="/"; domain=www.lemillesime.fr; path_spec; expires="2018-08-03 23:19:39Z"; version=0
+Set-Cookie3: start=R118920265; path="/"; domain=www.lokalizatory.eu; path_spec; expires="2018-08-03 23:34:08Z"; version=0
+Set-Cookie3: startBAK=R3415745932; path="/"; domain=www.lokalizatory.eu; path_spec; expires="2018-08-03 23:35:55Z"; version=0
+Set-Cookie3: ja_purity_ii_tpl=ja_purity_ii; path="/"; domain=www.parrocchiamurelle.it; path_spec; expires="2019-08-12 07:00:50Z"; version=0
+Set-Cookie3: template_scsh_tpl=template_scsh; path="/"; domain=www.speleo44.fr; path_spec; expires="2019-07-24 22:12:57Z"; version=0
+Set-Cookie3: 439c60deba47cddc2bc19b7a2a138529=sk-SK; path="/"; domain=www.stirosro.sk; path_spec; expires="2019-08-03 22:02:00Z"; version=0
+Set-Cookie3: ja_university_tpl=ja_university; path="/"; domain=www.traduzioniserbocroato.com; path_spec; expires="2019-08-13 08:56:55Z"; version=0
+Set-Cookie3: pelican_tpl=pelican; path="/"; domain=www.vipairballooning.be; path_spec; expires="2019-07-24 21:46:34Z"; version=0
